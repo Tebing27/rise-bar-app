@@ -61,7 +61,9 @@ export default function Hero() {
   };
 
   return (
-    <main className="relative min-h-screen flex items-center justify-center pt-16 md:pt-28">
+    // ... existing code ...
+<main className="relative min-h-screen flex items-center justify-center pt-16 md:pt-28 overflow-hidden">
+// ... existing code ...
       <div className="absolute inset-0 bg-gradient-to-b from-green-50 to-white pointer-events-none" />
       <div className="max-w-7xl mx-auto px-4 sm:px-16 lg:px-8 py-6 md:py-12 relative z-10">
         <motion.div
