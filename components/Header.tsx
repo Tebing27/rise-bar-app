@@ -22,7 +22,7 @@ export default function Header(){
         <Link href="/">
           <Image src="/images/logoo.png" alt="Logo" width={70} height={0}/>
         </Link>
-          <h1 className="font-semibold text-2xl text-green-400 font-bold cursor-pointer">RiseBar</h1>
+          <h1 className="font-semibold text-2xl text-green-400 font-bold cursor-pointer">Rise and Care</h1>
         </div>
         <div className="hidden md:flex items-center space-x-6 ml-auto lg:me-28">
           {navItems.map((item) => (
