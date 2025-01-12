@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     description: "Pantau kesehatan Anda dengan mudah menggunakan Rise and Care. Aplikasi modern untuk monitoring gula darah dengan fitur lengkap.",
     images: [
       {
-        url: "/images/logo.png",
+        url: "/images/logoo.png",
         width: 1200,
         height: 630,
         alt: "Rise and Care App Preview",
